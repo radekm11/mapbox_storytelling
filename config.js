@@ -76,6 +76,37 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'opening',
+            alignment: 'centered',
+            hidden: false,
+            title: 'The Color Purple',
+            image: './assets/color_purple_cover.jpg',
+            description: 'This is where I insert a description of the novel',
+            location: {
+                center: [-90.3150946, 38.6605671],
+                zoom: 4,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+
+        {
             id: 'chapter-two',
             alignment: 'left',
             hidden: false,
