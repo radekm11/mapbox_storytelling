@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'The Color Purple',
-            image: './assets/color_purple_cover.jpg',
+            image: './assets/Keezell_Hall.jpg',
             description: 'This is where I insert a description of the novel',
             location: {
                 center: [-90.3150946, 38.6605671],
