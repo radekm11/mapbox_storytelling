@@ -15,18 +15,18 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Color Purple Essay 2',
-    subtitle: 'Spatial Journeys across the South 2',
-    byline: 'Joost',
+    title: 'Southern Literature',
+    subtitle: 'Mapping Gender and Economic Power',
+    byline: 'Radek Magulick',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
-            image: './assets/Keezell_Hall.jpg',
-            description: 'This is where I insert a description of the novel',
+            title: 'Mapping Gender and Economic Power in Southern Literature',
+            image: 'C:\Users\radek\OneDrive\Desktop\SL final title image.jpeg',
+            description: 'This project maps purchases from The Color Purple, Salvage the Bones, and As I Lay Dying. Male and female purchases are represented using different colors for each book. The data highlights the gendered economic activity in these Southern novels and explores how money and power interact.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
