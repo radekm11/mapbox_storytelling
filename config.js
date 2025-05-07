@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Mapping Gender and Economic Power in Southern Literature',
-            image: 'C:\Users\radek\OneDrive\Desktop\SL final title image.jpeg',
+            image: 'https://imgur.com/a/vJ0VB1z',
             description: 'This project maps purchases from The Color Purple, Salvage the Bones, and As I Lay Dying. Male and female purchases are represented using different colors for each book. The data highlights the gendered economic activity in these Southern novels and explores how money and power interact.',
             location: {
                 center: [-90.3150946, 38.6605671],
