@@ -129,9 +129,9 @@ var config = {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'The Color Purple - Why More Female Purchases?',
             image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            description: 'So why do women make more purchases in this novel compared to the others? One reason is that the story centers women’s journeys from powerlessness to agency. Unlike in the other novels, female characters here are allowed to grow economically. Shug, Sofia, Celie—they each carve out their own space. The men, on the other hand, often lose their grip on control (like Mister) or are pushed aside in the narrative. The power dynamic flips, and the data reflects that. Purchases made by women here aren’t just acts of economy—they’re acts of reclamation.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
