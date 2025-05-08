@@ -112,8 +112,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple - Overview',
             image: './assets/firestone_farm.jpg',
-            description: 'Another test'
-',
+            description: 'Test',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
