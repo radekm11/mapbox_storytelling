@@ -112,7 +112,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple - Overview',
             image: './assets/firestone_farm.jpg',
-            description: 'Let’s try this again',
+            description: 'In Hurston’s novel, most of the purchases are made by male characters like Joe Starks, who uses his wealth to build Eatonville and control Janie’s world. One example: Joe buys the store and sets Janie behind the counter, but only as a figurehead.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
