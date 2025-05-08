@@ -112,7 +112,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple - Overview',
             image: './assets/firestone_farm.jpg',
-            description: 'This novel is the only one where female purchases outnumber male purchases. That’s not accidental—it’s central to the book’s theme of female empowerment. As Celie begins to gain independence, she starts to buy things—not just objects, but symbols of her self-worth. One key moment is when she buys her own house and starts her business.',
+            description: 'This is the only novel where women make more purchases than men—a reflection of its focus on female empowerment. As Celie gains independence, her buying becomes a symbol of self-worth. One key moment is when she buys her own house and business: “I’m pore, I’m black, I may be ugly and can’t cook… But I’m here.” These purchases mark the point when she starts choosing for herself.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
