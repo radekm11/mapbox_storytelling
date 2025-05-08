@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'Global Pattern - Males Purchase More',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Across all three novels, the data shows a clear trend: male characters make more purchases than female characters. In Their Eyes Were Watching God, it’s 25 to 12. In Salvage the Bones, it’s even more extreme—14 to 2. The only outlier is The Color Purple, where women make 14 purchases to the men’s 11. These numbers alone suggest a power imbalance rooted in gender. But by mapping each purchase and tying it to quotes from the novels, I wanted to show how these transactions represent more than just economics—they mark moments of authority, survival, or resistance..',
+            description: 'Across all three novels, the data shows a clear trend: male characters make more purchases than female characters. In Their Eyes Were Watching God, it’s 25 to 12. In Salvage the Bones, it’s even more extreme—14 to 2. The only outlier is The Color Purple, where women make 14 purchases to the men’s 11. These numbers alone suggest a power imbalance rooted in gender. But by mapping each purchase and tying it to quotes from the novels, I wanted to show how these transactions represent more than just economics—they mark moments of authority, survival, or resistance.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -79,7 +79,7 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'Local View - Their Eyes Were Watching God',
+            title: 'Their Eyes Were Watching God',
             image: './assets/color_purple_cover.jpg',
             description: 'In Hurston’s novel, most of the purchases are made by male characters like Joe Starks, who uses his wealth to build Eatonville and control Janie’s world. One example: Joe buys the store and sets Janie behind the counter, but only as a figurehead. “She was there in the store for him to look at, not for the customers to talk to.” The act of purchasing becomes a form of display and control. While Janie does make a few purchases, they are minor and almost never autonomous. The map reflects this imbalance—most economic points trace male movement and decision-making.',
             location: {
@@ -129,9 +129,9 @@ var config = {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'The Color Purple - Why More Female Purchases?',
             image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            description: 'So why do women make more purchases in this novel compared to the others? One reason is that the story centers women’s journeys from powerlessness to agency. Unlike in the other novels, female characters here are allowed to grow economically. Shug, Sofia, Celie—they each carve out their own space. The men, on the other hand, often lose their grip on control (like Mister) or are pushed aside in the narrative. The power dynamic flips, and the data reflects that. Purchases made by women here aren’t just acts of economy—they’re acts of reclamation.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
