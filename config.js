@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Mapping Gender and Economic Power in Southern Literature',
             image: 'https://i.imgur.com/XXSn8Gz.jpeg',
-            description: 'Across three major Southern novels, male characters make significantly more purchases than female characters. This disparity reflects deeper patterns of power, autonomy, and economic control in the American South.',
+            description: 'Across three major Southern novels- Their Eyes Were Watching God, The Color Purple, and Salvage the Bones- male characters make significantly more purchases than female characters. This disparity reflects deeper patterns of power, autonomy, and economic control in the American South.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
