@@ -203,9 +203,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
+            title: 'Why Are Female Purchases More Spread Out?',
             image: './assets/color_purple_cover.jpg',
-            description: 'This is where I insert a description of the novel',
+            description: 'In the books Their Eyes Were Watching God, and The Color Purple, the female purchases are more spread throughout the map than male purchases. This is due to the fact that female characters often have to leave home or move between places to gain independence or escape control. Their purchases might reflect that movement—buying things in new places as part of their personal journey.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
