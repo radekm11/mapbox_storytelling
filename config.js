@@ -253,9 +253,9 @@ var config = {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'Conclusion',
             image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            description: 'Across these Southern novels, who gets to make purchases reveals much more than who holds the money—it shows who holds power. Male characters dominate the buying in two out of three books, reflecting long-standing gender roles where men make decisions and control resources. But when women do purchase, especially in The Color Purple, it often marks a turning point—asserting identity, independence, and resistance. Mapping these patterns doesn’t just show gender imbalance; it shows how acts of buying can either reinforce or disrupt the power dynamic between men and women.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
