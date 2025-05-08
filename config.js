@@ -148,9 +148,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'Mapping Gender and Economic Power in Southern Literature',
+            title: 'Salvage The Bones - Extreme Male Dominance',
             image: 'C:\Users\radek\OneDrive\Desktop\SL final title image.jpeg',
-            description: 'This project maps purchases from The Color Purple, Salvage the Bones, and As I Lay Dying. Male and female purchases are represented using different colors for each book. The data highlights the gendered economic activity in these Southern novels and explores how money and power interact.',
+            description: 'In Jesmyn Ward’s novel, nearly all the purchases are made by men—14 compared to just 2 by women. Most of the female characters, like Esch, are too young, too poor, or too trapped in cycles of dependence to make economic choices. The few purchases made by women are often tied to survival, like buying pregnancy tests or food. Meanwhile, men purchase everything from dogfighting supplies to building materials. When Daddy uses FEMA money to buy plywood, it’s a reminder that even aid is filtered through male authority. Mapping this imbalance shows how deep it runs in the structure of the family.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
