@@ -76,7 +76,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'opening',
+            id: 'chapter-two',
             alignment: 'centered',
             hidden: false,
             title: 'Their Eyes Were Watching God',
@@ -107,7 +107,7 @@ var config = {
         },
 
         {
-            id: 'chapter-two',
+            id: 'chapter-three',
             alignment: 'left',
             hidden: false,
             title: 'The Color Purple - Overview',
@@ -126,7 +126,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-three',
+            id: 'chapter-four',
             alignment: 'fully',
             hidden: false,
             title: 'The Color Purple - Why More Female Purchases?',
