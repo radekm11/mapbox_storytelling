@@ -28,9 +28,9 @@ var config = {
             image: 'https://i.imgur.com/XXSn8Gz.jpeg',
             description: 'Across three major Southern novels- Their Eyes Were Watching God, The Color Purple, and Salvage the Bones- male characters make significantly more purchases than female characters. This disparity reflects deeper patterns of power, autonomy, and economic control in the American South.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076],
-                zoom: 3.5,
-                pitch: 30,
+                center: [-90.3150946, 38.6605671],
+                zoom: 4,
+                pitch: 60,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -58,9 +58,9 @@ var config = {
             image: 'https://i.imgur.com/Lv34xW6.png',
             description: 'Across all three novels, the data shows a clear trend: male characters make more purchases than female characters. In Their Eyes Were Watching God, it’s 25 to 12. In Salvage the Bones, it’s even more extreme—14 to 2. The only outlier is The Color Purple, where women make 14 purchases to the men’s 11. These numbers alone suggest a power imbalance rooted in gender. But by mapping each purchase and tying it to quotes from the novels, I wanted to show how these transactions represent more than just economics—they mark moments of authority, survival, or resistance..',
             location: {
-                center: [-83.5573651, 32.5573651], 
-                zoom: 6.5,
-                pitch: 60,
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
                 bearing: -43.2,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
