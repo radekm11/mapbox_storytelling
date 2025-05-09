@@ -254,7 +254,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Conclusion - What the Data Shows, and What It Misses',
-            image: './assets/color_purple_field.jpg',
+            image: 'https://media.npr.org/assets/img/2023/12/15/rev-1-tcp-15102_high_res_jpeg_custom-8c1d2a21d25ff95635ddfd9c67743774ca14d746.jpeg',
             description: 'This project maps how gender affects who buys what—but the data has big limits. We used dropdown categories, so a lot of nuance is lost. We often don’t know who something was bought from, how it was paid for/if it was stolen, or even what exactly was purchased. The map helps us visualize power, but gendered agency isn’t always visible in clean data fields. It’s a starting point, not the full picture.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
