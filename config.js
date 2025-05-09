@@ -76,7 +76,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'opening',
+            id: 'chapter-two',
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God',
@@ -107,7 +107,7 @@ var config = {
         },
 
         {
-            id: 'chapter-two',
+            id: 'chapter-three',
             alignment: 'left',
             hidden: false,
             title: 'The Color Purple - Overview',
@@ -126,7 +126,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-three',
+            id: 'chapter-four',
             alignment: 'fully',
             hidden: false,
             title: 'The Color Purple - Why More Female Purchases?',
@@ -145,7 +145,7 @@ var config = {
             onChapterExit: []
          },
 {
-            id: 'opening',
+            id: 'chapter-five',
             alignment: 'centered',
             hidden: false,
             title: 'Salvage The Bones - Extreme Male Dominance',
@@ -175,7 +175,7 @@ var config = {
             ]
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-six',
             alignment: 'right',
             hidden: false,
             title: 'Why Are Female Purchases More Spread Out?',
@@ -200,7 +200,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'opening',
+            id: 'chapter-seven',
             alignment: 'centered',
             hidden: false,
             title: 'Mapped and Unmapped Agency',
@@ -231,7 +231,7 @@ var config = {
         },
 
         {
-            id: 'chapter-two',
+            id: 'chapter-eight',
             alignment: 'left',
             hidden: false,
             title: 'Gender and Power - A Last Look',
@@ -250,7 +250,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-three',
+            id: 'chapter-nine',
             alignment: 'fully',
             hidden: false,
             title: 'Conclusion - What the Data Shows, and What It Misses',
