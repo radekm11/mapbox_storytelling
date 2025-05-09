@@ -112,7 +112,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple - Overview',
             image: 'https://media.npr.org/assets/img/2023/12/15/rev-1-tcp-05246_high_res_jpeg-5a30de845c0d6d7454afbef6c21de4af9c387cc6.jpeg?s=900&c=85&f=webp',
-            description: 'This is the only novel where women make more purchases than men—a reflection of its focus on female empowerment. As Celie gains independence, her buying becomes a symbol of self-worth. One key moment is when she buys her own house and business: “I’m pore, I’m black, I may be ugly and can’t cook… But I’m here.” These purchases mark the point when she starts choosing for herself.',
+            description: 'This is the only novel where women make more purchases than men—a reflection of its focus on female empowerment. As Celie gains independence, her buying becomes a symbol of self-worth. One key moment is when she buys her own house and business: “I’m pore, I’m black, I may be ugly and can’t cook… But I’m here.”(page 205) These purchases mark the point when she starts choosing for herself.',
             location: {
                 center: [-86.8148, 34.0809], 
                 zoom: 5.50,
