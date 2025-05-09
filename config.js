@@ -200,12 +200,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-seven',
+            id: 'chapter-one',
             alignment: 'centered',
             hidden: false,
             title: 'Mapped and Unmapped Agency',
-            image: './assets/color_purple_cover.jpg',
-            description: 'Many female characters make emotional or symbolic choices that don’t involve buying anything. So while maps track purchases, they can’t always capture power expressed in other forms—like resisting, nurturing, or storytelling. That might make female agency seem less visible, when in fact it’s just expressed differently. Mapping purchases reveals part of the picture, but the gaps are just as telling—especially when women’s power isn’t tied to buying at all.',
+            image: 'https://media.vanityfair.com/photos/657205c7d3946842dc3c4235/1:1/w_1232,h_1232,c_limit/The-Color-Purple-2023.png',
+            description: 'Many female characters make emotional or symbolic choices that don’t involve buying anything. So while maps track purchases, they can’t always capture power expressed in other forms—like resisting, nurturing, or storytelling. That might make female agency seem less visible, when in fact it’s just expressed differently. Mapping purchases reveals part of the picture, but the gaps are just as telling—especially when women’s power isn’t directly tied to purchases.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
