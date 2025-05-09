@@ -83,9 +83,9 @@ var config = {
             image: 'https://afterlivesofslavery.wordpress.com/wp-content/uploads/2017/11/1350e750fde9df9fc2a147fb3d7d89a1-halle-berry-good-movies.jpg?w=625',
             description: 'In Hurston’s novel, most of the purchases are made by male characters like Joe Starks, who uses his wealth to build Eatonville and control Janie’s world. One example: Joe buys the store and sets Janie behind the counter, but only as a figurehead. “She was there in the store for him to look at, not for the customers to talk to.” The act of purchasing becomes a form of display and control. While Janie does make a few purchases, they are minor and almost never autonomous. The map reflects this imbalance—most economic points trace male movement and decision-making.',
             location: {
-                center: [-90.3150946, 38.6605671],
-                zoom: 4,
-                pitch: 60,
+                center: [28.618579170446417, -81.38643808791495],
+                zoom: 2.8,
+                pitch: 50,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
