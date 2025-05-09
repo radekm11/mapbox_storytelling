@@ -84,12 +84,12 @@ var config = {
             description: 'In Hurston’s novel, most of the purchases are made by male characters like Joe Starks, who uses his wealth to build Eatonville and control Janie’s world. One example: Joe buys the store and sets Janie behind the counter, but only as a figurehead. “She was there in the store for him to look at, not for the customers to talk to.” The act of purchasing becomes a form of display and control. While Janie does make a few purchases, they are minor and almost never autonomous. The map reflects this imbalance—most economic points trace male movement and decision-making.',
             location: {
                 center: [-81.38643808791495, 28.618579170446417],
-                zoom: 6,
+                zoom: 6.4,
                 pitch: 50,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [
                 // {
@@ -111,16 +111,16 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Color Purple - Overview',
-            image: './assets/firestone_farm.jpg',
+            image: 'https://media.npr.org/assets/img/2023/12/15/rev-1-tcp-05246_high_res_jpeg-5a30de845c0d6d7454afbef6c21de4af9c387cc6.jpeg?s=900&c=85&f=webp',
             description: 'This is the only novel where women make more purchases than men—a reflection of its focus on female empowerment. As Celie gains independence, her buying becomes a symbol of self-worth. One key moment is when she buys her own house and business: “I’m pore, I’m black, I may be ugly and can’t cook… But I’m here.” These purchases mark the point when she starts choosing for herself.',
             location: {
                 center: [-86.56, 34.0095], 
-                zoom: 6.65,
+                zoom: 5.00,
                 pitch: 45.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
