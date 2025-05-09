@@ -149,12 +149,12 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Salvage The Bones - Extreme Male Dominance',
-            image: 'C:\Users\radek\OneDrive\Desktop\SL final title image.jpeg',
+            image: 'https://i.imgur.com/UgpItf9.png',
             description: 'In Jesmyn Ward’s novel, nearly all the purchases are made by men—14 compared to just 2 by women. Most of the female characters, like Esch, are too young, too poor, or too trapped in cycles of dependence to make economic choices. The few purchases made by women are often tied to survival, like buying pregnancy tests or food. Meanwhile, men purchase everything from dogfighting supplies to building materials. When Daddy uses FEMA money to buy plywood, it’s a reminder that even aid is filtered through male authority. Mapping this imbalance shows how deep it runs in the structure of the family.',
             location: {
-                center: [-90.3150946, 38.6605671],
-                zoom: 4,
-                pitch: 60,
+                center: [-89.26806244331303, 30.400637931513852],
+                zoom: 7.8,
+                pitch: 25,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
