@@ -182,10 +182,10 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'In the books Their Eyes Were Watching God and The Color Purple, the female purchases are more spread throughout the map than male purchases. This is due to the fact that female characters often have to leave home or move between places to gain independence or escape control. Their purchases might reflect that movement—buying things in new places as part of their personal journey.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-81.38643808791495, 28.618579170446417], 
                 zoom: 6.5,
                 pitch: 60,
-                bearing: -43.2,
+                bearing: 80,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
