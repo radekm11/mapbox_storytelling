@@ -154,11 +154,11 @@ var config = {
             location: {
                 center: [-89.26806244331303, 30.400637931513852],
                 zoom: 8.4,
-                pitch: 50,
+                pitch: 60,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [
                 // {
@@ -179,7 +179,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Why Are Female Purchases More Spread Out?',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: 'https://www.shutterstock.com/image-vector/woman-character-escaping-cage-female-260nw-1909009654.jpg',
             description: 'In the books Their Eyes Were Watching God and The Color Purple, the female purchases are more spread throughout the map than male purchases. This is due to the fact that female characters often have to leave home or move between places to gain independence or escape control. Their purchases might reflect that movement—buying things in new places as part of their personal journey.',
             location: {
                 center: [-81.38643808791495, 28.618579170446417], 
