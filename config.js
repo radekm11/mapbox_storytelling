@@ -235,10 +235,10 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Gender and Power - A Last Look',
-            image: './assets/firestone_farm.jpg',
+            image: 'https://i.imgur.com/9YSwQ16.png',
             description: 'Across these Southern novels, who gets to make purchases reveals much more than who holds the money—it shows who holds power. Male characters dominate the buying in two out of three books, reflecting long-standing gender roles where men make decisions and control resources. But when women do purchase, especially in The Color Purple, it often marks a turning point—asserting identity, independence, and resistance. Mapping these patterns doesn’t just show gender imbalance; it shows how acts of buying can either reinforce or disrupt the power dynamic between men and women.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-81.38643808791495, 28.618579170446417], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
