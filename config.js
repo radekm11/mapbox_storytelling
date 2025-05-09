@@ -114,13 +114,13 @@ var config = {
             image: './assets/firestone_farm.jpg',
             description: 'This is the only novel where women make more purchases than men—a reflection of its focus on female empowerment. As Celie gains independence, her buying becomes a symbol of self-worth. One key moment is when she buys her own house and business: “I’m pore, I’m black, I may be ugly and can’t cook… But I’m here.” These purchases mark the point when she starts choosing for herself.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
+                center: [-83.56, 33.0095], 
+                zoom: 7.00,
                 pitch: 45.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
