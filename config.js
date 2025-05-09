@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'Global Pattern - Males Purchase More',
             image: 'https://i.imgur.com/Lv34xW6.png',
-            description: 'Across all three novels, the data shows a clear trend: male characters make more purchases than female characters. In Their Eyes Were Watching God, it’s 25 to 12. In Salvage the Bones, it’s even more extreme—14 to 2. The only outlier is The Color Purple, where women make 14 purchases to the men’s 11. These numbers alone suggest a power imbalance rooted in gender. But by mapping each purchase and tying it to quotes from the novels, I wanted to show how these transactions represent more than just economics—they mark moments of authority, survival, or resistance..',
+            description: 'Across all three novels, the data shows a clear trend: male characters make more purchases than female characters. In Their Eyes Were Watching God, it’s 25 to 12. In Salvage the Bones, it’s even more extreme—14 to 2. The only outlier is The Color Purple, where women make 14 purchases to the men’s 11. These numbers alone suggest a power imbalance rooted in gender. But by mapping each purchase, I wanted to show how these transactions represent more than just economics—they mark moments of authority, survival, or resistance..',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
