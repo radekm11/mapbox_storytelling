@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Mapping Gender and Economic Power in Southern Literature',
             image: 'https://i.imgur.com/XXSn8Gz.jpeg',
-            description: 'Across three major Southern novels- Their Eyes Were Watching God, The Color Purple, and Salvage the Bones- male characters make significantly more purchases than female characters. This disparity reflects deeper patterns of males having more power, autonomy, and economic control in the American South.',
+            description: 'In class, we read different major Southern novels, and the three I chose to analyze further were: Their Eyes Were Watching God, The Color Purple, and Salvage the Bones. While analyzing different types of purchase data made in these novels, there was a clear trend: male characters made a lot more purchases than female characters. This difference shows trends of male dominance in the American South in terms of economic dominance, autonomy, and power.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'Global Pattern - Males Purchase More',
             image: 'https://i.imgur.com/Lv34xW6.png',
-            description: 'Across all three novels, the data shows a clear trend: male characters make more purchases than female characters. In Their Eyes Were Watching God, it’s 25 to 12. In Salvage the Bones, it’s even more extreme—14 to 2. The only outlier is The Color Purple, where women make 14 purchases to the men’s 11. These numbers alone suggest a power imbalance rooted in gender. But by mapping each purchase, I wanted to show how these transactions represent more than just economics—they mark moments of authority, survival, or resistance..',
+            description: 'The trend that males make more purchases than females was hard to miss. In Their Eyes Were Watching God, it’s 25 to 12. In Salvage the Bones, it’s 14 to 2. The only book where females make more purchases than males is The Color Purple, where women make 14 purchases to the men’s 11. These numbers show that there is a purchase-power imbalance rooted in gender. However, by mapping every purchase, I aimed to show how these exchanges are more than just points on a map, they can show moments of power, survival, or even resistance.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -81,7 +81,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes Were Watching God',
             image: 'https://afterlivesofslavery.wordpress.com/wp-content/uploads/2017/11/1350e750fde9df9fc2a147fb3d7d89a1-halle-berry-good-movies.jpg?w=625',
-            description: 'In Hurston’s novel, most of the purchases are made by male characters like Joe Starks, who uses his wealth to build Eatonville and control Janie’s world. One example: Joe buys the store and sets Janie behind the counter, but only as a figurehead. “She was there in the store for him to look at, not for the customers to talk to.”(Page 55) The act of purchasing becomes a form of display and control. While Janie does make a few purchases, they are minor and almost never autonomous. The map reflects this imbalance—most economic points trace male decision-making.',
+            description: 'Male characters like Joe Starks, who uses his money to build Eatonville and rule Janie’s world, make the majority of the purchases in Hurston’s book. For example, Starks purchases the business and puts Janie behind the counter, but just as a figurehead. “She was there in the store for him to look at, not for the customers to talk to.”(Page 55) Buying turns into a tool for display and control. Even though Janie does make a few purchases, they are usually small and rarely on her own. This imbalance is shown on the map. The majority of economic points attribute decision-making to men.',
             location: {
                 center: [-81.38643808791495, 28.618579170446417],
                 zoom: 6.4,
@@ -112,7 +112,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple - Overview',
             image: 'https://media.npr.org/assets/img/2023/12/15/rev-1-tcp-05246_high_res_jpeg-5a30de845c0d6d7454afbef6c21de4af9c387cc6.jpeg?s=900&c=85&f=webp',
-            description: 'This is the only novel where women make more purchases than men—a reflection of its focus on female empowerment. As Celie gains independence, her buying becomes a symbol of self-worth. One key moment is when she buys her own house and business: “I’m pore, I’m black, I may be ugly and can’t cook… But I’m here.”(page 205) These purchases mark the point when she starts choosing for herself.',
+            description: 'This book has a central theme of female empowerment, and that is why this is the only book where women make more purchases than men. Celie’s purchases become a way of showing her increased autonomy as she becomes more independent. Her purchase of her own home and business is an important moment. “I’m pore, I’m black, I may be ugly and can’t cook… But I’m here.”(page 205). This quote comes from when Celie finally starts to stand up for herself.',
             location: {
                 center: [-86.8148, 34.0809], 
                 zoom: 5.50,
@@ -131,7 +131,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple - Why More Female Purchases?',
             image: 'https://i.imgur.com/PFLsrYv.png',
-            description: 'So why do women make more purchases in this novel compared to the others? One reason is that the story centers women’s journeys from powerlessness to agency. Unlike in the other novels, female characters here are allowed to grow economically. Shug, Sofia, Celie—they each carve out their own space. The men, on the other hand, often lose their grip on control (like Mister) or are pushed aside in the narrative. The power dynamic flips, and the data reflects that. Purchases made by women here aren’t just acts of economy—they’re acts of reclamation.',
+            description: 'This story is all about different women’s journeys from oppression to empowerment. In this book female characters get to grow economically, which doesn’t happen in the others. Shug, Sofia, and Celie all start to become independent and take control over their own life, while the men, on the other hand, lose their control (like Mister) or are pushed aside in the story. The power dynamic changes, and the data reflects that. Purchases made by women here aren’t just acts of economy, they’re acts of gaining power/independence.',
             location: {
                 center: [-9.236846, 5.369085], 
                 zoom: 7.2,
@@ -150,7 +150,7 @@ var config = {
             hidden: false,
             title: 'Salvage The Bones - Extreme Male Dominance',
             image: 'https://i.imgur.com/UgpItf9.png',
-            description: 'In Jesmyn Ward’s novel, nearly all the purchases are made by men—14 compared to just 2 by women. Most of the female characters, like Esch, are too young, too poor, or too trapped in cycles of dependence to make economic choices. The few purchases made by women are often tied to survival, like buying pregnancy tests or food. Meanwhile, men purchase everything from dogfighting supplies to building materials. When Daddy uses FEMA money to buy plywood, it’s a reminder that even aid is filtered through male authority. Mapping this imbalance shows how deep it runs in the structure of the family.',
+            description: 'Almost all purchases are made by men in this book: 14 compared to just 2 by women. Esch is too young, poor, and reliant on others for her survival to make economic choices. The few purchases made by Esch are her necessities. An example of one of her purchases (that is a theft) is in Chapter 2, where she steals a pregnancy test after reasonable suspicion that she might be pregnant. Men, on the other hand, purchase anything from building materials to gear for dogfighting. Daddy is the primary decision maker during this rush to protect the house from the hurricane, especially because the family no longer has a mother. He salvages a lot of materials to protect the house. This really shows how heavily male-controlled this family is.',
             location: {
                 center: [-89.26806244331303, 30.400637931513852],
                 zoom: 8.4,
@@ -180,7 +180,7 @@ var config = {
             hidden: false,
             title: 'Why Are Female Purchases More Spread Out?',
             image: 'https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/bxs1imntbika3lkicde2.jpg',
-            description: 'In the books Their Eyes Were Watching God and The Color Purple, the female purchases are more spread throughout the map than male purchases. This is due to the fact that female characters often have to leave home or move between places to gain independence or escape control. Their purchases might reflect that movement—buying things in new places as part of their personal journey. “She had an inside and an outside now and suddenly she knew how not to mix them.”(Their Eyes Were Watching God, Page 73) This moment occurs when Janie begins to realize her own sense of self and independence. It suggests her ability to separate her own desires and identity from the outside forces controlling her.',
+            description: 'In the books Their Eyes Were Watching God and The Color Purple, the female purchases are more spread throughout the map than male purchases. This is because female characters often need to leave home, or between different places, to gain their independence and escape control. Their purchase locations reflect that movement, they are buying things in new places as part of their journey. “She had an inside and an outside now and suddenly she knew how not to mix them.”(Their Eyes Were Watching God, Chapter 6, Page 72) This quote is from the moment Janie started to understand who she is and what she wants. It marks when she starts separating herself from the people and forces trying to control her.',
             location: {
                 center: [-81.38643808791495, 28.618579170446417], 
                 zoom: 6.5,
@@ -205,7 +205,7 @@ var config = {
             hidden: false,
             title: 'Mapped and Unmapped Agency',
             image: 'https://media.vanityfair.com/photos/657205c7d3946842dc3c4235/1:1/w_1232,h_1232,c_limit/The-Color-Purple-2023.png',
-            description: 'Many female characters make emotional or symbolic choices that don’t involve buying anything. So while maps track purchases, they can’t always capture power expressed in other forms—like resisting, nurturing, or storytelling. That might make female agency seem less visible, when in fact it’s just expressed differently. Mapping purchases reveals part of the picture, but the gaps are just as telling—especially when women’s power isn’t directly tied to purchases.',
+            description: 'Although the fact that males making more purchases means they hold more power, many female characters make powerful decisions without making actual purchases. Therefore, even if maps show a purchase, it doesn’t ALWAYS directly correlate to power. Female empowerment may seem less noticable, but it can be conveyed in different ways (resisting, nurturing, etc). Part of the power ratio can be shown by mapping purchases, but the parts where there are no purchases involved can still be meaningful. Woman’s empowerment isn’t directly defined by her purchases, but overall it is still a sign that they hold less power.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -236,7 +236,7 @@ var config = {
             hidden: false,
             title: 'Gender and Power - A Last Look',
             image: 'https://i.imgur.com/9YSwQ16.png',
-            description: 'Across these Southern novels, who gets to make purchases reveals much more than who holds the money—it shows who holds power. Male characters dominate the buying in two out of three books, reflecting long-standing gender roles where men make decisions and control resources. But when women do purchase, especially in The Color Purple, it often marks a turning point—asserting identity, independence, and resistance. Mapping these patterns doesn’t just show gender imbalance; it shows how acts of buying can either reinforce or disrupt the power dynamic between men and women.',
+            description: 'Who makes more purchases in these Southern novels is more than just simple points on a map, it shows who overall holds more power. Male characters dominate the purchasing ratio in two out of three books, showing long established gender roles where men make the decisions and control the resources. When women do start to make more purchases, especially in The Color Purple, it often marks a turning point in their journey, showing independence and resistance. Not only does mapping these patterns highlight a gender imbalance, but it also shows how purchasing behaviors can either support or challenge power dynamics between men and women.',
             location: {
                 center: [-81.38643808791495, 28.618579170446417], 
                 zoom: 8.00,
@@ -255,7 +255,7 @@ var config = {
             hidden: false,
             title: 'Conclusion - What the Data Shows, and What It Misses',
             image: 'https://media.npr.org/assets/img/2023/12/15/rev-1-tcp-15102_high_res_jpeg_custom-8c1d2a21d25ff95635ddfd9c67743774ca14d746.jpeg',
-            description: 'This project maps how gender affects who buys what—but the data has big limits. We used dropdown categories, so a lot of nuance is lost. We often don’t know who something was bought from, how it was paid for/if it was stolen, or even what exactly was purchased. The map helps us visualize power, but gendered agency isn’t always visible in clean data fields. It’s a starting point, not the full picture.',
+            description: 'This project maps how gender and purchases made correlate, but the data has big limits. We used dropdown categories to input data, so a lot of details are unable to be shown. There are a lot of times that we don’t know who something was bought from, how it was paid for/if it was stolen, or what exactly was purchased. The map helps us visualize power, but gendered agency isn’t always visible in data fields. It’s a starting point, not the full picture.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
